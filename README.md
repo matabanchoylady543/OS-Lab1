@@ -5,16 +5,16 @@ Students: Brandon Stiven Jimenez (2371717) - Lady Vanessa Matabanchoy (2370571).
 OS Repository for lab 1 with the following programs: 
 
 1.)
-a. The leap year.
-b. Factorial of a number.
-c. Power using recursion.
-d. Even or odd numbers.
-e. Fabonnaci series.
-f. Uppercase letter.
-g. Lowercase letter.
-h. Greater of the three numbers.
-i. Type casting implicit explicit.
-j. Display number 1 to 10 in octal, decimal and hexadecimal system.
+- The leap year.
+- Factorial of a number.
+- Power using recursion.
+- Even or odd numbers.
+- Fabonnaci series.
+- Uppercase letter.
+- Lowercase letter.
+- Greater of the three numbers.
+- Type casting implicit explicit.
+- Display number 1 to 10 in octal, decimal and hexadecimal system.
 
 2.) Grades for SO course.
 
