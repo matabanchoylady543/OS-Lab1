@@ -1,20 +1,24 @@
-# OS-Lab1
+# ***OS-Lab1***
 
-Students: Brandon Stiven Jimenez (2371717) - Lady Vanessa Matabanchoy (2370571).
+## ***Students.***
+- Brandon Stiven Jimenez (2371717).
+- Lady Vanessa Matabanchoy (2370571).
 
+## ***Point 1 - Questions.***
+## ***Point 2 - Programs.***
 OS Repository for lab 1 with the following programs: 
 
-1.)
-- The leap year.
-- Factorial of a number.
-- Power using recursion.
-- Even or odd numbers.
-- Fabonnaci series.
-- Uppercase letter.
-- Lowercase letter.
-- Greater of the three numbers.
-- Type casting implicit explicit.
-- Display number 1 to 10 in octal, decimal and hexadecimal system.
+1. Programs C.
+   - The leap year.
+   - Factorial of a number.
+   - Power using recursion.
+   - Even or odd numbers.
+   - Fabonnaci series.
+   - [Uppercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/uppercase.c).
+   - [Lowercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/lowercase.c).
+   - [Greater of the three numbers](https://github.com/matabanchoylady543/OS-Lab1/blob/main/greater.c).
+   - [Type casting implicit explicit](https://github.com/matabanchoylady543/OS-Lab1/blob/main/implicit_explicit.c).
+   - [Display number 1 to 10 in octal, decimal and hexadecimal system](https://github.com/matabanchoylady543/OS-Lab1/blob/main/dec_octal_hex.c).
 
 2.) Grades for SO course.
 
