@@ -13,16 +13,16 @@
 OS Repository for lab 1 with the following programs: 
 
 1. Programs C.
-   - [The leap year](https://github.com/matabanchoylady543/OS-Lab1/blob/main/year.c).
-   - [Factorial of a number](https://github.com/matabanchoylady543/OS-Lab1/blob/main/factorial.c).
-   - [Power using recursion](https://github.com/matabanchoylady543/OS-Lab1/blob/main/pow.c).
-   - [Even or odd numbers](https://github.com/matabanchoylady543/OS-Lab1/blob/main/even_odd.c).
-   - [Fabonnaci series](https://github.com/matabanchoylady543/OS-Lab1/blob/main/fibonacci.c).
-   - [Uppercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/uppercase.c).
-   - [Lowercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/lowercase.c).
-   - [Greater of the three numbers](https://github.com/matabanchoylady543/OS-Lab1/blob/main/greater.c).
-   - [Type casting implicit explicit](https://github.com/matabanchoylady543/OS-Lab1/blob/main/implicit_explicit.c).
-   - [Display number 1 to 10 in octal, decimal and hexadecimal system](https://github.com/matabanchoylady543/OS-Lab1/blob/main/dec_octal_hex.c).
+   - [The leap year](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/year.c).
+   - [Factorial of a number](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/factorial.c).
+   - [Power using recursion](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/pow.c).
+   - [Even or odd numbers](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/even_odd.c).
+   - [Fabonnaci series](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/fibonacci.c).
+   - [Uppercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/uppercase.c).
+   - [Lowercase letter](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/lowercase.c).
+   - [Greater of the three numbers](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/greater.c).
+   - [Type casting implicit explicit](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/implicit_explicit.c).
+   - [Display number 1 to 10 in octal, decimal and hexadecimal system](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2.1/dec_octal_hex.c).
 
 
 2. Grades for SO course. [Here!](https://github.com/matabanchoylady543/OS-Lab1/blob/main/point2_2.c)
