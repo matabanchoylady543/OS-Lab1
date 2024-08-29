@@ -4,11 +4,11 @@
 - Brandon Stiven Jimenez (2371717).
 - Lady Vanessa Matabanchoy (2370571).
 
-## ***Point 1 - Questions.***
+### ***Point 1 - Questions.***
 
    - [_Activity 1 - Answers._](https://github.com/matabanchoylady543/OS-Lab1/blob/main/Point1.md)
 
-## ***Point 2 - Programs.***
+### ***Point 2 - Programs.***
 
 OS Repository for lab 1 with the following programs: 
 
